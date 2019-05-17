@@ -1686,6 +1686,7 @@ Nikon Coolpix P90;6.08
 Nikon D5000;23.6
 Nikon D3000;23.6
 Nikon D300s;23.6
+Nikon Coolpix D750;35.9
 Nikon Coolpix S640;6.08
 Nikon Coolpix S570;6.16
 Nikon Coolpix S70;6.16
